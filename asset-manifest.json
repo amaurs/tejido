@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tejido/static/css/main.37967d83.chunk.css",
+    "main.js": "/tejido/static/js/main.1385ac91.chunk.js",
+    "main.js.map": "/tejido/static/js/main.1385ac91.chunk.js.map",
+    "runtime-main.js": "/tejido/static/js/runtime-main.f70abbef.js",
+    "runtime-main.js.map": "/tejido/static/js/runtime-main.f70abbef.js.map",
+    "static/js/2.80d3c918.chunk.js": "/tejido/static/js/2.80d3c918.chunk.js",
+    "static/js/2.80d3c918.chunk.js.map": "/tejido/static/js/2.80d3c918.chunk.js.map",
+    "index.html": "/tejido/index.html",
+    "precache-manifest.a245f8fa38e54aec693f150f533d38ce.js": "/tejido/precache-manifest.a245f8fa38e54aec693f150f533d38ce.js",
+    "service-worker.js": "/tejido/service-worker.js",
+    "static/css/main.37967d83.chunk.css.map": "/tejido/static/css/main.37967d83.chunk.css.map",
+    "static/js/2.80d3c918.chunk.js.LICENSE.txt": "/tejido/static/js/2.80d3c918.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f70abbef.js",
+    "static/js/2.80d3c918.chunk.js",
+    "static/css/main.37967d83.chunk.css",
+    "static/js/main.1385ac91.chunk.js"
+  ]
+}
