@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d2e743b0da755c38750c9af4e00f021",
+    "revision": "462b82beb5fdbb003cef730ce958c85a",
     "url": "/tejido/index.html"
   },
   {
-    "revision": "e001beb19f94cd99e945",
+    "revision": "d631f9f6384e327e7911",
     "url": "/tejido/static/css/main.37967d83.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tejido/static/js/2.80d3c918.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e001beb19f94cd99e945",
-    "url": "/tejido/static/js/main.1385ac91.chunk.js"
+    "revision": "d631f9f6384e327e7911",
+    "url": "/tejido/static/js/main.ab6857e2.chunk.js"
   },
   {
     "revision": "d2384b9ae32cf423338d",

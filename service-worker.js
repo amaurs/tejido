@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tejido/precache-manifest.a245f8fa38e54aec693f150f533d38ce.js"
+  "/tejido/precache-manifest.05dbfd57bda4c88d7835aac8c625225f.js"
 );
 
 self.addEventListener('message', (event) => {
